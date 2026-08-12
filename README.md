@@ -1,28 +1,45 @@
+<div>
+  <img
+    align="left"
+    width="350"
+    height="348"
+    hspace="20"
+    alt="ShockedLightningMcqueenGIF"
+    src="https://github.com/user-attachments/assets/7e679c14-d9be-4264-a97d-89dbe2585c90"
+  />
 
+  <p align="left">
+    <strong>Olá, eu sou o Mateus!</strong><br><br>
+    Tenho 19 anos e atualmente curso
+    <strong>
+      <a href="https://www.fateclins.edu.br/web/">
+        Sistemas para Internet na FATEC
+      </a>
+    </strong>.<br><br>
+    Meu interesse por tecnologia começou principalmente através dos videogames.
+    Sempre tive curiosidade em entender como os jogos eram feitos e como as ideias
+    por trás deles conseguiam se transformar em algo que eu pudesse jogar.<br><br>
+    Essa curiosidade me levou ao mundo da programação. Hoje desenvolvo projetos
+    e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+  </p>
+</div>
 
-# Olá, seja bem-vindo ao meu perfil!
+<br clear="left">
 
-Meu nome é Mateus e atualmente sou estudante de **Sistemas para Internet** na **Fatec de Lins**.
+<p align="left">
+  <a href="https://github.com/MateusPires11">
+    <img
+      alt="Seguidores"
+      title="Me siga no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/MateusPires11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+    />
+  </a>
 
-Estou em constante aprendizado e utilizo este espaço para compartilhar os projetos que desenvolvo durante a faculdade e nos meus estudos. Tenho interesse em desenvolvimento web, programação e em aprender novas tecnologias que contribuam para minha evolução como desenvolvedor.
-
-## Tecnologias que estou estudando
-
-* HTML
-* CSS
-* JavaScript
-* Git e GitHub
-
-## Objetivos
-
-Busco desenvolver projetos que me permitam colocar em prática o que aprendo, adquirir experiência e evoluir tanto técnica quanto profissionalmente.
-
-## Repositórios
-
-Neste perfil você encontrará trabalhos da faculdade, projetos pessoais e exercícios desenvolvidos ao longo da minha formação.
-
-## Contato
-
-* E-mail: mateusoliveirapires509@gmail.com
-
-Obrigado pela visita. Fique à vontade para conhecer meus projetos e acompanhar minha evolução ao longo da graduação.
+  <a href="https://github.com/MateusPires11?tab=repositories&sort=stargazers">
+    <img
+      alt="Estrelas"
+      title="Total de estrelas no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/MateusPires11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+    />
+  </a>
+</p>
