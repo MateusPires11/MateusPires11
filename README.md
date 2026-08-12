@@ -1,30 +1,31 @@
-<div>
-  <img
-    align="left"
-    width="350"
-    height="348"
-    hspace="20"
-    alt="ShockedLightningMcqueenGIF"
-    src="https://github.com/user-attachments/assets/7e679c14-d9be-4264-a97d-89dbe2585c90"
-  />
+<table>
+  <tr>
+    <td width="330">
+      <img
+        width="300"
+        alt="Shocked Lightning McQueen GIF"
+        src="https://github.com/user-attachments/assets/7e679c14-d9be-4264-a97d-89dbe2585c90"
+      />
+    </td>
+    <td width="30"></td>
+    <td>
+      <strong>Olá, eu sou o Mateus!</strong><br><br>
+      Tenho 19 anos e atualmente curso
+      <strong>
+        <a href="https://www.fateclins.edu.br/web/">
+          Sistemas para Internet na FATEC
+        </a>
+      </strong>.<br><br>
+      Meu interesse por tecnologia começou principalmente através dos videogames.
+      Sempre tive curiosidade em entender como os jogos eram feitos e como as ideias
+      por trás deles conseguiam se transformar em algo que eu pudesse jogar.<br><br>
+      Essa curiosidade me levou ao mundo da programação. Hoje desenvolvo projetos
+      e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+    </td>
+  </tr>
+</table>
 
-  <p align="left">
-    <strong>Olá, eu sou o Mateus!</strong><br><br>
-    Tenho 19 anos e atualmente curso
-    <strong>
-      <a href="https://www.fateclins.edu.br/web/">
-        Sistemas para Internet na FATEC
-      </a>
-    </strong>.<br><br>
-    Meu interesse por tecnologia começou principalmente através dos videogames.
-    Sempre tive curiosidade em entender como os jogos eram feitos e como as ideias
-    por trás deles conseguiam se transformar em algo que eu pudesse jogar.<br><br>
-    Essa curiosidade me levou ao mundo da programação. Hoje desenvolvo projetos
-    e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
-  </p>
-</div>
-
-<br clear="left">
+<br>
 
 <p align="left">
   <a href="https://github.com/MateusPires11">
