@@ -21,7 +21,6 @@
       por trás deles conseguiam se transformar em algo que eu pudesse jogar.<br><br>
       Essa curiosidade me levou ao mundo da programação. Hoje desenvolvo projetos
       e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
-      
     </td>
   </tr>
 </table>
