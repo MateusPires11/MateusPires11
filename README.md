@@ -58,22 +58,15 @@
 
 <img src="https://img.shields.io/badge/Projetos-7C3AED?style=for-the-badge" alt="Projetos">
 
-<p>
-  <a href="https://github.com/MateusPires11/Mirror_Fashion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusPires11&repo=Mirror_Fashion&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=7C3AED&border_color=7C3AED" alt="Mirror Fashion">
-  </a>
-  <a href="https://github.com/MateusPires11/conversor_de_moedas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusPires11&repo=conversor_de_moedas&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=7C3AED&border_color=7C3AED" alt="Conversor de moedas">
-  </a>
-</p>
-<p>
-  <a href="https://github.com/MateusPires11/jokenpo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusPires11&repo=jokenpo&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=7C3AED&border_color=7C3AED" alt="Jokenpo">
-  </a>
-  <a href="https://github.com/adrianobezerra1/adocao-lins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=projetointegradorSI&repo=ONG-Animal&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=7C3AED&border_color=7C3AED" alt="ONG Animal">
-  </a>
-</p>
+| Projeto | Descrição | Tecnologias |
+| ------- | --------- | ----------- |
+| 👗 [Mirror Fashion](https://github.com/MateusPires11/Mirror_Fashion) · [🔗 Demo](https://mateuspires11.github.io/Mirror_Fashion/) | Site de loja de moda feito na faculdade | HTML, CSS, JS |
+| 🐶 [ONG-Animal](https://github.com/adrianobezerra1/adocao-lins) | Site para uma ONG de animais | HTML, CSS |
+| 💱 [Conversor de moedas](https://github.com/MateusPires11/conversor_de_moedas) | Conversor de valores entre moedas | JavaScript |
+| ✌️ [Jokenpo](https://github.com/MateusPires11/jokenpo) | Jogo de pedra, papel e tesoura | JavaScript |
+| 🎓 [Matérias da FATEC](https://github.com/Fatec-Startup/pi-si-2026-Mateus.Pires) | Exercícios e atividades das matérias da faculdade | C |
+
+
 <img src="https://img.shields.io/badge/Estudando-7C3AED?style=for-the-badge" alt="Estudando">
 
 - Estruturas de dados em C
